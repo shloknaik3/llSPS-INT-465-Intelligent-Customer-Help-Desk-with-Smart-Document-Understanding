@@ -1,0 +1,33 @@
+PROJECT SCOPE DOCUMENT 
+Intelligent Customer Help Desk with Smart Document Understanding
+
+Project Summary
+This project is a part of the internship in partnership with SmartBridge - SmartInternz program. In this project, we will create an Intelligent Customer Help Desk with smart Document Understanding. A chatbot usually faces the problem of confusion in replying when posed with a question out of it's pre-defined database of queries. It will then propose to forward the customer's query to a human correspondent.
+An intelligent chatbot instead will be able to give answers for the customer's queries by referring to a smartly documented manual of the product and there would be no need for human intervention. This project aims to create such an intelligent chatbot engine.
+ 
+Project Requirements
+Project requires the following:
+- IBM Watson 
+-Github
+-A user manual of product
+
+Functional Requirements
+Cloud functions require a json code for running the chatbot. it also requires employability of IBM Watson Assisstant and Discovery.
+
+Technical Requirements
+A NODE-RED flow helps us to structure and design our chabot by using cloud functions, watson discovery, assisstant, debugger and input streams for the customer and bot to put together one platform for the Customer Help Desk to work.
+
+Software Requirements
+-  IBM Watson
+
+
+
+Project Deliverables
+An Intelligent Customer Help Desk with Smart Document Understanding
+
+Project Team
+1 member - Shlok Naik
+
+Project Schedule
+May 05 2020 - June 05 2020
+
