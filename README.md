@@ -5,3 +5,4 @@ This project is a part of the internship in partnership with SmartBridge - Smart
 An intelligent chatbot instead will be able to give answers for the customer's queries by referring to a smartly documented manual of the product and there would be no need for human intervention. This project aims to create such an intelligent chatbot engine.
  
 
+video link: https://youtu.be/nithK5VmnI4
